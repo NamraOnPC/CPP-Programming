@@ -1,4 +1,4 @@
-# OOP244
+# OOP-244
 
 Copying any of the code and the logic of the code would result in you getting plagiarised.
 Instead of copying, understand on the logic and work on the code yourself.
