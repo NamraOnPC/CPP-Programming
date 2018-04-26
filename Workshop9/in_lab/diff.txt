@@ -1,0 +1,10 @@
+
+In line number 8 of your output:
+The output should be:
+Population change from 2000 to 2004 is 12.23 million
+But your output is: 
+Population change from 2000 to 2004 is 12.23 million 
+                                                    ^
+----------------------------------------------------|
+Professor's character ASCII code: hex(0), dec(0)
+un-matched character ASCII code: hex(20), dec(32)

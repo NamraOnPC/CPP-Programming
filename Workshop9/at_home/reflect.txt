@@ -1,0 +1,21 @@
+// Name :- Namra Fanse
+// Student No :- 112219175
+// Student Email :- nrfanse@myseneca.ca
+// Date :- 4/4/2018
+// Workshop 9 at_home 
+// Reflect.txt
+
+
+ANS 1 :- When i tried to compile the code it shows me an error the error.
+
+
+ANS 2 :- In both the instances the code some sort of error.
+
+
+ANS 3 :- We can do this lab without templates but then we would have to write all the functions with same logic over and over again this breaks the rule of polymorphism which is not repeating yourself. Templates allow us to write logic which can be used multiple times by various variable types.
+
+ANS 4 :- Yes they are the same as template<class T> makes code inside it a template class and template<typename T> makes code inside it a template function as both are templates we can say that they are same 
+
+
+
+
