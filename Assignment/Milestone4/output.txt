@@ -1,0 +1,28 @@
+Script started on Tue 10 Apr 2018 09:52:54 PM EDT
+nrfanse@matrix:~/OOP244/Assignment/Milestone4> ms4
+Linear: one two 
+As is: 
+one
+two
+
+Enter the following: 
+three<ENTER>
+four<ENTER>
+Ctrl^D<ENTER>
+
+three
+four
+one two three four 
+one
+two
+three
+four
+
+sku match
+Product < Perishable
+45|32|131|32
+113.5
+nrfanse@matrix:~/OOP244/Assignment/Milestone4> exit
+exit
+
+Script done on Tue 10 Apr 2018 09:53:10 PM EDT
