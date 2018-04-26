@@ -1,0 +1,36 @@
+// Name :- Namra Fanse
+// Student ID :- 112219175
+// Student Email :- nrfanse@myseneca.ca
+// Reflection
+
+-----------
+REFLECTION-
+-----------
+
+ANS 1:-  No. The Hero class doesnt need to know about the SuperHero class, but SuperHero class needs to know about the Hero class because SuperHero class is dependent on Hero class as it inherits its properties.
+
+ANS 2:- Yes. The SuperHero class needs to know about the existance of Hero class because it is dependent on Hero class and it inherits properites of Hero class and some of the functions and methods declared inside it.
+
+ANS 3:- When i tried to make a Hero fight with a SuperHero it printed out "Ancient Battle!" because the operator * used if of the Hero class and not of the SuperHero class hence the above statement gets printed
+
+ANS 4:- Both the cases are True. In both cases is * is used to determine winner in first case the output will directly show the final fight result while for second case the output will show after they are being fought with each other. Also if we consider the above parameteres correct than the constructor will create objects accordingly and initialize them with the passed data if the above passed parameteres are not correct the object wont be created. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
