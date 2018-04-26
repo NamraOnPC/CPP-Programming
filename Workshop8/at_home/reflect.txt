@@ -1,0 +1,22 @@
+// Name :- Namra Fanse 
+// Student ID :- 112219175
+// Email :- nrfanse@myseneca.ca
+// Date :- 30/3/2018
+// Workshop 8 at_home
+// REFLECTION
+
+ANS 1 :- ->Abstract base classes are classes in which one or more method is declared in the class but it in not defined. Usually the method is defined in the derived class from the abstract class.
+
+	 ->In Concrete classes one or methods are declared and defined in the class itself and does not require a derived class to define the methods.
+
+
+ANS 2 :- -> credit() in ChequingAccount shadows credit() in Account in the main function.
+         
+	 -> debit() in ChequingAccount shadows debit() in Account in the main function.
+
+	 -> monthEnd() in ChequingAccount shadows monthEnd() in SavingsAccount in the main function.
+
+	 -> display() in ChequingAccount shadows display() in SavingsAccount.
+
+ANS 3 :- from this workshop i learned about polymorphism in c++ .i learned how to use virtual functions and how to declare functions in an abstract class and how to define them and use them in the derived classes.
+ 
