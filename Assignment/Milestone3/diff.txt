@@ -1,0 +1,10 @@
+
+In line number 25 of your output:
+The output should be:
+ Quantity needed: 23
+But your output is: 
+ Quantity Needed: 23
+          ^
+----------|
+Professor's character ASCII code: hex(6e), dec(110)
+un-matched character ASCII code: hex(4e), dec(78)
